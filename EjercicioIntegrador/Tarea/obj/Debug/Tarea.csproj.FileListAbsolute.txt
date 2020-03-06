@@ -1,0 +1,318 @@
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\ApplicationInsights.config
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\Tarea.dll.config
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\Tarea.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\Tarea.pdb
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\csc.exe
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\csc.exe.config
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\csc.rsp
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\csi.exe
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\csi.exe.config
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\csi.rsp
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\System.AppContext.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\System.Console.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\System.IO.Compression.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\System.IO.Pipes.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\System.Security.Claims.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\System.ValueTuple.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\System.Xml.XPath.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\vbc.exe
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\vbc.exe.config
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\vbc.rsp
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\VBCSCompiler.exe
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\Antlr3.Runtime.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\EntityFramework.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\EntityFramework.SqlServer.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\Microsoft.AI.Web.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\Microsoft.ApplicationInsights.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\Newtonsoft.Json.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\System.Web.Helpers.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\System.Web.Mvc.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\System.Web.Optimization.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\System.Web.Razor.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\System.Web.WebPages.Deployment.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\System.Web.WebPages.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\System.Web.WebPages.Razor.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\WebGrease.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\EntityFramework.xml
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\EntityFramework.SqlServer.xml
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\System.Web.Helpers.xml
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\System.Web.Mvc.xml
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\System.Web.Optimization.xml
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\System.Web.Razor.xml
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\System.Web.WebPages.xml
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\System.Web.WebPages.Deployment.xml
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\System.Web.WebPages.Razor.xml
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\Newtonsoft.Json.xml
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\Antlr3.Runtime.pdb
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\Microsoft.AI.Web.xml
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\es\System.Web.Helpers.resources.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\es\System.Web.Mvc.resources.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\es\System.Web.Optimization.resources.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\es\System.Web.Razor.resources.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\es\System.Web.WebPages.resources.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\obj\Debug\Tarea.csprojAssemblyReference.cache
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\obj\Debug\Tarea.csproj.CoreCompileInputs.cache
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\obj\Debug\Tarea.csproj.CopyComplete
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\obj\Debug\Tarea.dll
+C:\Users\EducaciónIT\source\repos\Tarea\Tarea\obj\Debug\Tarea.pdb
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\ApplicationInsights.config
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\Tarea.dll.config
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\Tarea.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\Tarea.pdb
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\csc.exe
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\csc.exe.config
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\csc.rsp
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\csi.exe
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\csi.exe.config
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\csi.rsp
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\System.AppContext.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\System.Collections.Immutable.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\System.Console.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\System.Globalization.Calendars.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\System.IO.Compression.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\System.IO.FileSystem.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\System.Net.Http.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\System.Net.Sockets.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\System.Reflection.Metadata.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\System.ValueTuple.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\System.Xml.XPath.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\vbc.exe
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\vbc.exe.config
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\vbc.rsp
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\VBCSCompiler.exe
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\roslyn\VBCSCompiler.exe.config
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\Microsoft.Win32.Primitives.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\netstandard.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.AppContext.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Collections.Concurrent.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Collections.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Collections.NonGeneric.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Collections.Specialized.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.ComponentModel.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.ComponentModel.EventBasedAsync.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.ComponentModel.Primitives.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.ComponentModel.TypeConverter.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Console.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Data.Common.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Diagnostics.Contracts.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Diagnostics.Debug.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Diagnostics.FileVersionInfo.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Diagnostics.Process.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Diagnostics.StackTrace.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Diagnostics.Tools.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Diagnostics.TraceSource.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Diagnostics.Tracing.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Drawing.Primitives.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Dynamic.Runtime.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Globalization.Calendars.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Globalization.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Globalization.Extensions.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.IO.Compression.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.IO.Compression.ZipFile.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.IO.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.IO.FileSystem.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.IO.FileSystem.DriveInfo.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.IO.FileSystem.Primitives.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.IO.FileSystem.Watcher.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.IO.IsolatedStorage.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.IO.MemoryMappedFiles.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.IO.Pipes.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.IO.UnmanagedMemoryStream.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Linq.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Linq.Expressions.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Linq.Parallel.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Linq.Queryable.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Net.Http.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Net.NameResolution.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Net.NetworkInformation.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Net.Ping.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Net.Primitives.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Net.Requests.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Net.Security.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Net.Sockets.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Net.WebHeaderCollection.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Net.WebSockets.Client.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Net.WebSockets.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.ObjectModel.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Reflection.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Reflection.Extensions.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Reflection.Primitives.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Resources.Reader.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Resources.ResourceManager.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Resources.Writer.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Runtime.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Runtime.Extensions.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Runtime.Handles.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Runtime.InteropServices.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Runtime.Numerics.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Runtime.Serialization.Formatters.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Runtime.Serialization.Json.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Runtime.Serialization.Primitives.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Runtime.Serialization.Xml.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Security.Claims.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Security.Cryptography.Algorithms.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Security.Cryptography.Csp.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Security.Cryptography.Encoding.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Security.Cryptography.Primitives.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Security.Cryptography.X509Certificates.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Security.Principal.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Security.SecureString.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Text.Encoding.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Text.Encoding.Extensions.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Text.RegularExpressions.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Threading.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Threading.Overlapped.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Threading.Tasks.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Threading.Tasks.Parallel.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Threading.Thread.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Threading.ThreadPool.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Threading.Timer.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.ValueTuple.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Xml.ReaderWriter.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Xml.XDocument.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Xml.XmlDocument.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Xml.XmlSerializer.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Xml.XPath.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Xml.XPath.XDocument.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\Antlr3.Runtime.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\EntityFramework.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\EntityFramework.SqlServer.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\Microsoft.AI.DependencyCollector.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\Microsoft.AI.Web.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\Microsoft.AI.WindowsServer.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\Microsoft.ApplicationInsights.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\Microsoft.Web.Infrastructure.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\Newtonsoft.Json.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Buffers.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Memory.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Numerics.Vectors.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Web.Helpers.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Web.Mvc.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Web.Optimization.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Web.Razor.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Web.WebPages.Deployment.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Web.WebPages.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Web.WebPages.Razor.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\WebGrease.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\EntityFramework.xml
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\EntityFramework.SqlServer.xml
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\Microsoft.AI.DependencyCollector.pdb
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\Microsoft.AI.DependencyCollector.xml
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\Microsoft.AI.PerfCounterCollector.pdb
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\Microsoft.AI.PerfCounterCollector.xml
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\Microsoft.AI.ServerTelemetryChannel.pdb
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\Microsoft.AI.Web.pdb
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\Microsoft.AI.Web.xml
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\Microsoft.AI.WindowsServer.pdb
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\Microsoft.AI.WindowsServer.xml
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\Microsoft.ApplicationInsights.pdb
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\Microsoft.ApplicationInsights.xml
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\Newtonsoft.Json.xml
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Buffers.xml
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Memory.xml
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Numerics.Vectors.xml
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Web.Helpers.xml
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Web.Mvc.xml
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Web.Razor.xml
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Web.WebPages.xml
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Web.WebPages.Deployment.xml
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Web.WebPages.Razor.xml
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\System.Web.Optimization.xml
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\Antlr3.Runtime.pdb
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\es\System.Web.Helpers.resources.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\es\System.Web.Mvc.resources.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\es\System.Web.Razor.resources.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\es\System.Web.WebPages.resources.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\bin\es\System.Web.Optimization.resources.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\obj\Debug\Tarea.csprojAssemblyReference.cache
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\obj\Debug\Tarea.csproj.CopyComplete
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\obj\Debug\Tarea.dll
+E:\Programacion\cursoInet\MVC\clase10\Tarea franco fazzito\Tarea\obj\Debug\Tarea.pdb
